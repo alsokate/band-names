@@ -713,3 +713,8 @@ Them Bonus Arms
 K: Anyway “when does a fetus cease to be a part of the mother and a person itself” is intractable and my answer is more whimsical
 h: First breath taken on its own. Boom. Done.
 K: I’d agree, so let’s count them bonus arms
+
+---
+Ulysses and the Pyroclastics
+---
+Meredith: I don't remember where this came from, but I screwed up the pull request somehow, and I still really like the name. I read about Pompeii and Herculaneum a lot, so it's probably that!
